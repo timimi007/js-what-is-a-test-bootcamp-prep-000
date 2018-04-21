@@ -7,3 +7,5 @@ module.exports = {name, height, message}
 
 console.log(message)
 console.log(name ,"is" ,height, "inches tall")
+
+console.log(${name} )
